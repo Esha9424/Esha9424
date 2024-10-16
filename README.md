@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esha Sharma</h1>
-<h3 align="center">Frontend Developer with a passion for creating responsive and dynamic user experiences.</h3>
+<h3 align="center">With solid experience in full-stack development, I am now focused on advancing my backend technology capabilities.</h3>
 
 - 🌱 I’m currently learning **node.js**
 
