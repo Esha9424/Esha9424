@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esha Sharma</h1>
-<h3 align="center">With solid experience in full-stack development, I am now focused on advancing my backend technology capabilities.</h3>
+<h3 align="center">Passionate about coding and committed to sharpening my development skills, with a current focus on Frontend technologies</h3>
 
 - 🌱 I’m currently learning **node.js**
 
